@@ -1,6 +1,6 @@
 ﻿namespace SmartCity.Core;
 
-public class DispositivoIoT
+public abstract class DispositivoIoT
 {
     public int Id { get; set; }
     public bool Estado { get; set; }

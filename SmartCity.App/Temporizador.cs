@@ -35,6 +35,7 @@ public class Temporizador
         }
         catch (BateriaAgotadaException ex)
         {
+            Console.Beep();
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("[ ! ] ALERTA CRÍTICA [ ! ]");
             Console.WriteLine(ex.Message);

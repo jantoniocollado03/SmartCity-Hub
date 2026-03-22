@@ -10,3 +10,15 @@ C:\Users\luchi\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\Smar
 C:\Users\luchi\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\refint\SmartCity.Core.dll
 C:\Users\luchi\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.pdb
 C:\Users\luchi\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\ref\SmartCity.Core.dll
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\bin\Debug\net10.0\SmartCity.Core.deps.json
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\bin\Debug\net10.0\SmartCity.Core.dll
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\bin\Debug\net10.0\SmartCity.Core.pdb
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.AssemblyInfoInputs.cache
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.AssemblyInfo.cs
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.csproj.CoreCompileInputs.cache
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.sourcelink.json
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.dll
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\refint\SmartCity.Core.dll
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\SmartCity.Core.pdb
+C:\Users\janto\RiderProjects\SmartCity-Hub\SmartCity.Core\obj\Debug\net10.0\ref\SmartCity.Core.dll
