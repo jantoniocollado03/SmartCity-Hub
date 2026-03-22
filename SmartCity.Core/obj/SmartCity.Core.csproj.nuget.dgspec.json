@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luchi\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj": {}
+    "C:\\Users\\janto\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luchi\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj": {
+    "C:\\Users\\janto\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luchi\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj",
+        "projectUniqueName": "C:\\Users\\janto\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj",
         "projectName": "SmartCity.Core",
-        "projectPath": "C:\\Users\\luchi\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj",
-        "packagesPath": "C:\\Users\\luchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luchi\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\obj\\",
+        "projectPath": "C:\\Users\\janto\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\SmartCity.Core.csproj",
+        "packagesPath": "C:\\Users\\janto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\janto\\RiderProjects\\SmartCity-Hub\\SmartCity.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\janto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
